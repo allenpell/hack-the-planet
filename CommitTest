@@ -21,7 +21,7 @@ Payload
     {
       "id": "881d11da05e388ebf7fe609e40a549d3687cc4c6",
       "distinct": true,
-      "message": "[axof: 465]",
+      "message": "[axof:3]",
       "timestamp": "2016-01-14T12:01:25+01:00",
       "url": "https://github.com/rmeekers/Test-VSO/commit/881d11da05e388ebf7fe609e40a549d3687cc4c6",
       "author": {
