@@ -1,8 +1,8 @@
 hack-the-planet
 ===============
+***
+## Lord Nikon
 
-Lord Nikon
+<p>This is a test read me file for the first time using Gitlab</p>
 
-This is a test read me file for the first time using GitHub
-
-Trust your Technolust!
+**Trust your Technolust!**
